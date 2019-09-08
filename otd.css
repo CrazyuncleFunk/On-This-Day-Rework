@@ -83,6 +83,7 @@ Buttons
   background-color:rgba(100, 100  , 100 , .3);
   border:black 1px solid;
   color:black;
+  display:inline-block;
   padding: 2px 8px;
   margin-left:0.5em;
   transform:scale(1);
